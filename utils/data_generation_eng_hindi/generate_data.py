@@ -14,6 +14,10 @@ def generate_data_hindi(data_path,vocab_path,vocab_ohe_path,start,end):
         for n in i.split():
             hindi_vocab[n]=c
             c+=1
+
+    hindi_vocab['start']=len(list(hindi_vocab.keys()))+1
+    hindi_vocab['end']=len(list(hindi_vocab.keys()))+1
+
     keys=[[i] for i in hindi_vocab.keys()]
     pkl.dump(hindi_vocab,open(vocab_path,"wb"))
     k=np.array(keys).reshape(-1,1)
@@ -29,11 +33,12 @@ def generate_data_hindi(data_path,vocab_path,vocab_ohe_path,start,end):
     x_hindi=[]
     for i in data:
         temp=[]
+        temp.insert(0,hindi_vocab['start'])
         for j in i.split():
             temp.append(list(hindi_vocab[j]))
+        temp.insert(len(temp),hindi_vocab['end'])
         x_hindi.append(temp)
-    return x_hindi
-
+    return x_hindi,ohe._n_features_outs[0]
 
 def generate_data_eng(vocab_dict_path,wv_path,data_path):
 
@@ -54,4 +59,4 @@ def generate_data_eng(vocab_dict_path,wv_path,data_path):
             temp.append(vocab_dict[j])
         if len(temp)!=0:
             x_eng.append(temp)
-    return x_eng
+    return x_eng,w2v[0].shape[0]
