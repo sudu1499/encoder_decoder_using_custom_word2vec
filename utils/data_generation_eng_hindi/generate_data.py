@@ -44,7 +44,7 @@ def generate_data_eng(vocab_dict_path,wv_path,data_path):
 
     vocab_dict=pkl.load(open(vocab_dict_path,"rb"))
     w2v=torch.load(open(wv_path,"rb"))
-
+    print(vocab_dict)
     for i in vocab_dict.keys():
         vocab_dict[i]= w2v[vocab_dict[i]].detach().cpu().numpy()
 

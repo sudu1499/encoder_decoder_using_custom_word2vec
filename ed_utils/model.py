@@ -1,5 +1,5 @@
 from torch import nn
-
+import torch
 class Encoder(nn.Module):
 
 
@@ -7,13 +7,13 @@ class Encoder(nn.Module):
 
         super().__init__()
 
-        self.l1=nn.LSTM(input_size,hidden_size,num_layers)
+        self.l1=nn.LSTM(input_size,hidden_size,num_layers,batch_first=True,dtype=torch.float64)
 
     def forward(self,x,h,c):
 
         self.lr=self.l1(x,(h,c))
 
-        return self.lr[1]
+        return self.lr
     
 
 class Decoder(nn.Module):
@@ -22,15 +22,15 @@ class Decoder(nn.Module):
 
         super().__init__()
 
-        self.l1=nn.LSTM(input_size,hidden_size,num_layers)
+        self.l1=nn.LSTM(input_size,number_classes,num_layers,batch_first=True,dtype=torch.float64)
 
-        self.dense=nn.Linear(input_size,number_classes)
-        self.sm=nn.Softmax(dim=0)
+        self.dense=nn.Linear(number_classes,number_classes,dtype=torch.float64)
+        self.sm=nn.Softmax(dim=1)
 
     def forward(self,x,h,c):
 
         self.r=self.l1(x,(h,c))
-        
+        # print(self.r[0].shape)
         return self.sm(self.dense(self.r[0])),self.r[1]
     
 

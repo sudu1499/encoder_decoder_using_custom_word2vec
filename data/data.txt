@@ -1,100 +1,200 @@
-Do you believe me?
-Do you believe me?
-Don't deceive him.
-He began to shout.
-He came to see me.
-He employs a maid.
-He is after a job.
-He is walking now.
-He studied abroad.
-He turned traitor.
-He's already left.
-I can drive a car.
-I cried all night.
-I got very sleepy.
-I have a headache.
-I have a headache.
-I have some money.
-I haven't met him.
-I listen to music.
-I saw him running.
-I saw him running.
-I truly loved her.
-I work for a bank.
-I'm getting happy.
-I'm not a student.
-I'm not like that.
-I'm really hungry.
-It's not my fault.
-It's starting now.
-My bag was stolen.
-My eyes are tired.
-No one's in sight.
-Put your hands up!
-She began to sing.
-She has blue eyes.
-She isn't married.
-Tell me the truth.
-The earth rotates.
-Try it once again.
-Try it once again.
-Turn on the radio.
-We don't know her.
-We don't know him.
-We have good news.
-What is happiness?
-What is happiness?
-What is your name?
-What's the matter?
-Where do you live?
-Where do you live?
-Where do you live?
-Where do you live?
-Where do you live?
-Where is the book?
-Where's the beach?
-Who made this pie?
-Yes. That's right.
-You have to leave.
-Are you busy today?
-Are you busy today?
-Can we have a talk?
-Come along with us.
-Did you sleep well?
-Do you remember me?
-Don't give up hope.
-Don't throw stones.
-Everyone likes her.
-Everyone likes him.
-Have you gone nuts?
-He breathed deeply.
-He closed his eyes.
-He cried and cried.
-He is a simple man.
-He is sure to come.
-He isn't my cousin.
-He isn't my cousin.
-He waited his turn.
-He works at a bank.
-He's a good person.
-I admit my mistake.
-I can read English.
-I can read English.
-I can't believe it!
-I heard him go out.
-I know her address.
-I know his address.
-I know those women.
-I know your father.
-I sort of like him.
-I still don't know.
-I was born in 1960.
-I was born in 1979.
-I watch television.
-I worked all night.
-I worked all night.
-I'll see you later.
-I'll see you later.
-I'm as tall as you.
-I'm coming at once.
-Is this book yours?
+do you believe me?
+do you believe me?
+don't deceive him.
+he began to shout.
+he came to see me.
+he employs a maid.
+he is after a job.
+he is walking now.
+he studied abroad.
+he turned traitor.
+he's already left.
+i can drive a car.
+i cried all night.
+i got very sleepy.
+i have a headache.
+i have a headache.
+i have some money.
+i haven't met him.
+i listen to music.
+i saw him running.
+i saw him running.
+i truly loved her.
+i work for a bank.
+i'm getting happy.
+i'm not a student.
+i'm not like that.
+i'm really hungry.
+it's not my fault.
+it's starting now.
+my bag was stolen.
+my eyes are tired.
+no one's in sight.
+put your hands up!
+she began to sing.
+she has blue eyes.
+she isn't married.
+tell me the truth.
+the earth rotates.
+try it once again.
+try it once again.
+turn on the radio.
+we don't know her.
+we don't know him.
+we have good news.
+what is happiness?
+what is happiness?
+what is your name?
+what's the matter?
+where do you live?
+where do you live?
+where do you live?
+where do you live?
+where do you live?
+where is the book?
+where's the beach?
+who made this pie?
+yes. that's right.
+you have to leave.
+are you busy today?
+are you busy today?
+can we have a talk?
+come along with us.
+did you sleep well?
+do you remember me?
+don't give up hope.
+don't throw stones.
+everyone likes her.
+everyone likes him.
+have you gone nuts?
+he breathed deeply.
+he closed his eyes.
+he cried and cried.
+he is a simple man.
+he is sure to come.
+he isn't my cousin.
+he isn't my cousin.
+he waited his turn.
+he works at a bank.
+he's a good person.
+i admit my mistake.
+i can read english.
+i can read english.
+i can't believe it!
+i heard him go out.
+i know her address.
+i know his address.
+i know those women.
+i know your father.
+i sort of like him.
+i still don't know.
+i was born in 1960.
+i was born in 1979.
+i watch television.
+i worked all night.
+i worked all night.
+i'll see you later.
+i'll see you later.
+i'm as tall as you.
+i'm coming at once.
+is this book yours?
+it is already dark.
+it looks like snow.
+it started to snow.
+it was sort of fun.
+"it's mine, not his."
+"it's mine, not his."
+it's too expensive!
+it's too expensive!
+it's very hot here.
+let me handle this.
+let's take a train.
+my car is a toyota.
+my family is small.
+my wife is chinese.
+my wife is chinese.
+no one can help me.
+she is very pretty.
+she leaped for joy.
+she smiled happily.
+she's not a doctor.
+that guy annoys me.
+the batter was out.
+the crow flew away.
+the power went out.
+these dogs are big.
+this is mary's dog.
+was his story true?
+we are against war.
+we are against war.
+we enjoyed skating.
+we were in a hurry.
+we were very tired.
+we're good friends.
+what a big pumpkin!
+what's the problem?
+when does it begin?
+where are the kids?
+where is the beach?
+which dog is yours?
+who broke the vase?
+who made this cake?
+who's at the wheel?
+whose book is this?
+you may use my pen.
+answer my questions.
+are they in the gym?
+can you drive a car?
+can you drive a car?
+could you sign here?
+everybody likes her.
+everybody likes him.
+"excuse me, i'm lost."
+he called me a taxi.
+he felt very lonely.
+he lives next to me.
+he looks very tired.
+he seems to be rich.
+he'll get well soon.
+he's in a bad state.
+how about the taste?
+how did you make it?
+i am not from india.
+i am reading a book.
+i bought an old car.
+i can teach english.
+i continued singing.
+i do not understand.
+i don't like summer.
+i forgot to ask him.
+i hate taking risks.
+i haven't eaten yet.
+i know both of them.
+i know what that is.
+i tried to tell you.
+i want to marry her.
+i wanted her to win.
+i'd like a city map.
+i'd like to see her.
+i'd like to see her.
+i'll be back at ten.
+i'll bring the wine.
+i'll bring the wine.
+i'll make you happy.
+i've already called.
+i've lost my ticket.
+let's play baseball!
+must i write in ink?
+my family loved tom.
+my money was stolen.
+my sister has a job.
+she kept on working.
+she pulled my shirt.
+that is not a tiger.
+that was my mistake.
+the skies are clear.
+the trees are green.
+these are our books.
+this is what i need.
+watch your language.
+we are good friends.

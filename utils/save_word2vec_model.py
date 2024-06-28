@@ -6,7 +6,7 @@ raw_data_path='E:\\encoder_decoder_using_custom_word2vec\\data\\Dataset_English_
 ready_data_path='E:\\encoder_decoder_using_custom_word2vec\\data\\data.txt'
 
 start=300
-end=400
+end=500
 
 create_ready_data(raw_data_path,ready_data_path,start,end)  ##########################  generated ready data from raw data
 
